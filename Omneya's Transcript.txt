@@ -1,0 +1,7 @@
+Student's Name: Omneya Osama Hasan Ismail.
+Major: Computer Science.
+Status In: Probation and Drop Student.
+Status Out: Probation and Drop Student.
+Semester GPA: 1.456
+CUM GPA: 1.2
+Semester EHRS: 16

@@ -1,0 +1,7 @@
+Student's Name: Karen George Emil.
+Major: Computer Science.
+Status In: Regular Student.
+Status Out: Regular Student.
+Semester GPA: 3.306
+CUM GPA: 2.83
+Semester EHRS: 16

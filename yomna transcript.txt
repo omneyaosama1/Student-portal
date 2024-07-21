@@ -1,0 +1,8 @@
+               Transcript
+Student's name:Yomna Hany Ibrahim
+Major:Computer science
+Status In:Drop Student
+Status Out:Drop Student
+Semester GPA:2.58
+COM GPA:2.43
+Semester EHRS:16

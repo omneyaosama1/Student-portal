@@ -1,0 +1,32 @@
+Doctor's name:Taraggy Mohiy Ghanim
+Email: taraggy.ghanim@miuegypt.edu.eg
+Room:325
+
+
+Doctor's name:Emad yaakoub
+Email:emad.ibrahim@miuegypt.edu.eg
+Room:325
+
+Doctor's name:Abdelnasser Reiad Zaied
+Email: abdelnasser.reiad@miuegypt.edu.eg
+Room:309
+
+Doctor's name: Ossama Dawood
+Email:ossama.dawood@miuegypt.edu.eg
+Room:219
+
+Doctor's name: Lilian Attia
+Email:lilian.attia@miuegypt.edu.eg
+Room:207
+
+TA's name:Toqa El Rasheedy
+Email:toqa.elrasheedy@miuegypt.edu.eg
+Room:307
+
+TA's name: Mahmoud Heidar
+Email:mahmoud.heidar@miuegypt.edu.eg
+Room:307
+
+
+
+

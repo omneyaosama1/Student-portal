@@ -1,0 +1,43 @@
+Student's info#
+
+
+Student's name : Nada khaled
+Major: Computer Science
+Year:  Freshman
+Case: regular student
+Number of Courses: 6
+
+
+
+ Students name: Hana Mohamed Abdelwahab
+ Major: Computer science
+ Year: Freshman 
+ Case: under probation
+ Number of Courses: 5
+
+
+
+Student's name: Omneya Osama
+Major: Computer Science
+Year: Second
+Case: under probation and drop
+Number of courses: 4
+
+
+
+Student's name: Youmna Ibrahim
+Major: Computer science
+Year: Third year
+Case: Drop
+Number of courses: 4
+  
+
+Student's name: Karen George
+Major: Computer science
+Year: Fourth year
+Case: regular
+Number of courses: 5
+
+
+
+

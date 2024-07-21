@@ -1,0 +1,8 @@
+Transcript
+Student's Name: Nada Khaled
+Major: Computer Science
+Status In: Regular Student
+Status Out: Regular Student
+Semester GPA: 3.25
+CUM GPA: 3.25
+Semester EHRS: 17

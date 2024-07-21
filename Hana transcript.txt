@@ -1,0 +1,8 @@
+                Transcript
+Student's name:Hana Mohamed Abdelwahab.
+Major:Computer science.
+Status In:Student Under Probation.
+Status Out:Student Under Probation.
+Semester GPA:1.93
+COM GPA:1.93
+Semester EHRS:17
